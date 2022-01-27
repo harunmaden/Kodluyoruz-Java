@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[]args){
         int number;
         Scanner inp = new Scanner(System.in);
-        System.out.print("Sayıyı giriniz : ");
+        System.out.print("Sayıyı giriniz :");
         number = inp.nextInt();
         int basNumber = 0;
         int tempNumber = number;
